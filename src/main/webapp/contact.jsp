@@ -360,17 +360,18 @@
 	     https://firebase.google.com/docs/web/setup#available-libraries -->
 	<script src="https://www.gstatic.com/firebasejs/7.14.4/firebase-analytics.js"></script>
 
+	
 	<script>
 	  // Your web app's Firebase configuration
 	  var firebaseConfig = {
-	    apiKey: "AIzaSyAWrZNFDhAPzZycng8VMw2sw0-7CbUf_Pg",
-	    authDomain: "aschoologye.firebaseapp.com",
-	    databaseURL: "https://aschoologye.firebaseio.com",
-	    projectId: "aschoologye",
-	    storageBucket: "aschoologye.appspot.com",
-	    messagingSenderId: "452651685481",
-	    appId: "1:452651685481:web:d0c80c5da49a8a0459b4f8",
-	    measurementId: "G-8WKH435EY3"
+	    apiKey: "api_key",
+	    authDomain: "asc.firebaseapp.com",
+	    databaseURL: "auth_domain",
+	    projectId: "procjectId",
+	    storageBucket: "StorageBucket",
+	    messagingSenderId: "messagingSender.id",
+	    appId: "appID",
+	    measurementId: "measurementID"
 	  };
 	  // Initialize Firebase
 	  firebase.initializeApp(firebaseConfig);

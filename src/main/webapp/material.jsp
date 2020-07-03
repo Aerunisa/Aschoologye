@@ -4,7 +4,6 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<meta charset="ISO-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Teacher Aschoologye</title>
     <link rel="icon" href="img/img/logo.png">
@@ -334,22 +333,22 @@
 
 
 
+	
 	<script>
 	  // Your web app's Firebase configuration
 	  var firebaseConfig = {
-	    apiKey: "AIzaSyAWrZNFDhAPzZycng8VMw2sw0-7CbUf_Pg",
-	    authDomain: "aschoologye.firebaseapp.com",
-	    databaseURL: "https://aschoologye.firebaseio.com",
-	    projectId: "aschoologye",
-	    storageBucket: "aschoologye.appspot.com",
-	    messagingSenderId: "452651685481",
-	    appId: "1:452651685481:web:d0c80c5da49a8a0459b4f8",
-	    measurementId: "G-8WKH435EY3"
+	    apiKey: "api_key",
+	    authDomain: "asc.firebaseapp.com",
+	    databaseURL: "auth_domain",
+	    projectId: "procjectId",
+	    storageBucket: "StorageBucket",
+	    messagingSenderId: "messagingSender.id",
+	    appId: "appID",
+	    measurementId: "measurementID"
 	  };
 	  // Initialize Firebase
 	  firebase.initializeApp(firebaseConfig);
 	  firebase.analytics();
-	  
 	</script>
 	<script src="js/material.js"></script>		
 	
